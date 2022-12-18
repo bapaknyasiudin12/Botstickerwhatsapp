@@ -1,0 +1,5 @@
+Pasang ffmpeg pada pc atau laptop kalian 
+
+copi pada file bin lalu edit pada environment variabel 
+tambahkan user variabel tambahkan dengan nama file "Path" lalu paste lokasi bin ffmpeg. lalu save 
+setelah jadi bisa di cek pada cmd 
